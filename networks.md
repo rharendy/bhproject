@@ -69,3 +69,16 @@ Based on the suggested design, here’s the breakdown of Ethernet ports per room
 ### Summary
 The total number of **Ethernet ports** in this setup is **10**.
 
+---
+
+# Redudancy
+
+Using a network equipment enclosure with power outlets from two different panels is a good idea, especially for redundancy and reliability. Here’s why:
+
+1. **Power Redundancy**: Connecting to separate panels provides backup power if one circuit or panel experiences an outage. This setup is useful for keeping critical equipment, like your network and CCTV, running.
+
+2. **Load Balancing**: Network equipment can consume significant power, especially if you have a router, switch, PoE injectors, and possibly a UPS. Distributing the load across two circuits helps prevent overload on a single circuit.
+
+3. **UPS Integration**: If you plan to include a UPS, connect it to one of the power outlets to keep key equipment operational during short power outages. The second panel can be connected directly to the main equipment, providing an alternative power path.
+
+For the best results, work with an electrician to set up outlets on separate circuits, ideally labeled for easy identification in the enclosure.
