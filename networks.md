@@ -30,7 +30,7 @@
    - **CCTV PoE Ports**:
      - No direct need inside bedrooms, but consider a hallway camera covering the entry to the rooms.
 
-#### **4. Home Office**
+#### **4. Home Office/Studio**
    - **Ethernet Ports**:
      - Place two Ethernet ports for desktop computers or VoIP setups.
    - **CCTV PoE Ports**:
