@@ -62,6 +62,8 @@ Based on the suggested design, here’s the breakdown of Ethernet ports per room
 3. **Bedrooms (1, 2, and 3)**: 1 port each (total of 3 ports).
 4. **Home Office**: 2 ports.
 5. **Garage**: 1 port.
+6. **Door bell**: 1 port 
+7. **Ceiling access point**: 2 ports 
 
 ### Total Ethernet Ports:
 - **3 (Living Room) + 1 (Kitchen/Dining) + 3 (Bedrooms) + 2 (Home Office) + 1 (Garage) = 10 Ethernet Ports**
